@@ -2,7 +2,7 @@
 
 String Library is a JavaScript library for manipulating strings
 
-https://img.shields.io/bundlephobia/min/@nyapal/string_lib
+![npm bundle size](https://img.shields.io/bundlephobia/min/@nyapal/string_lib)
 
 ## Installation
 
